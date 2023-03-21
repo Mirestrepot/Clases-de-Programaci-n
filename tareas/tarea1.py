@@ -1,3 +1,4 @@
+#Copia y pega esto en tu Interpreter para solucionarlo.
 #Muestra en pantalla una variable (y) que muestre "hola mundo".
 print(y)
 #Completa el siguiente codigo para que imprima 100.
